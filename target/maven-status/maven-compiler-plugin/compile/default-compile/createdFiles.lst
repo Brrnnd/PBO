@@ -1,0 +1,13 @@
+com\mycompany\filterfoto\filters\Filter.class
+com\mycompany\filterfoto\filters\GrayscaleFilter.class
+com\mycompany\filterfoto\app\PhotoFilterApp.class
+com\mycompany\filterfoto\filters\InvertFilter.class
+com\mycompany\filterfoto\util\ImageUtils.class
+com\mycompany\filterfoto\filters\BlurFilter.class
+com\mycompany\filterfoto\filters\SharpenFilter.class
+com\mycompany\filterfoto\gui\ImageEditorFrame.class
+com\mycompany\filterfoto\filters\BrightnessFilter.class
+com\mycompany\filterfoto\filters\VignetteFilter.class
+com\mycompany\filterfoto\Controller\ImageController.class
+com\mycompany\filterfoto\filters\ContrastFilter.class
+com\mycompany\filterfoto\filters\SepiaFilter.class
